@@ -1,0 +1,32 @@
+DefaultContentLanguage = "pt-br"
+baseURL = "https://gabrielmtborges.com.br/"
+languageCode = "pt-br"
+theme = "mainroad"
+
+[languages]
+  [languages.pt-br]
+    weight = 1
+
+[Params]
+  description = "Gabriel Martins Teixeira Borges Sociedade Individual de Advocacia"
+  post_meta = ["date", "categories"] # Order of post meta information 
+  dateFormat = "02/01/2006"
+ 
+[Params.logo]
+  image = "logo.jpg"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "gabriel.martins.14606936"
+  instagram = "gmtb.adv"
+  email = "gmtb.adv@gmail.com"
