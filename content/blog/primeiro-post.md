@@ -3,7 +3,6 @@ title: ASSOCIAÇÕES DE SOCORRO MÚTUO PODEM TER MENSALIDADES FIXAS OU EXISTÊNC
   FUNDO?
 date: 2020-06-02T21:35:17.000+00:00
 tags:
-- direto
 - associação civil
 - socorro mútuo
 - proteção veicular
