@@ -11,7 +11,6 @@ categories:
 - associação
 - direito civil
 - proteção veicular
-draft: true
 
 ---
 Em razão de algumas indagações feitas sobre mensalidade fixa e fundo nas associações de socorro mútuo, decidi fazer alguns apontamentos sobre essa questão.
