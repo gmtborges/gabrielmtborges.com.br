@@ -14,3 +14,9 @@ fields:
 - type: list
   name: categories
   label: Categorias
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Nome do link ( não pode conter espaços )
+  description: 'Ex.: https://exemplo.com/link-personalizado'
