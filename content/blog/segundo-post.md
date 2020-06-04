@@ -1,7 +1,6 @@
 ---
 title: Propaganda nas Associações de Socorro Mutuo, uma análise com base na jurisprudência.
 date: 2020-06-02T19:30:35-03:00
-draft: true
 
 ---
 Antes de falar sobre a questão das propagandas, primeiro, com base no Enunciado 185 da III Jornada de Direito Civil do Conselho da Justiça Federal. destaco os pontos característicos das associações de socorro mútuo, como: (i) **Entidades legalmente autorizadas**: A associação deve conter o seu estatuto registrado no cartório competente, ser inscrita no Cadastro Nacional de Pessoas Jurídicas (CNPJ). A autorização da associação é tida com a aprovação/registro do cartório (Estado) de seu estatuto, (ii) **Grupos restritos de ajuda mútua:** A associação é considerada um grupo restrito, um grupo particular fechado, ou seja, as pessoas/particulares se unem em prol de um objetivo, no caso em tela, a repartição das despesas já ocorridas. Com esse conceito, foge a ideia de terceiro setor (interesse público) e fica claro o interesse particular (amparo dos membros daquele grupo) e (iii) **Autogestão:** Significa que é o próprio grupo que cria e gere seus objetivos. É a associação que faz a autogestão das despesas já ocorridas/rateio, em regra feito um contrato atípico (Regulamento), nos termos do Art. 425 do Código Civil.
