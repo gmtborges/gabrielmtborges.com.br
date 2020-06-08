@@ -8,11 +8,13 @@ tags:
 - proteção veicular
 - Fundo ou mensalidade fixa
 - Propagandas em proteção veicular
+- legalidade da proteção veicular/associação de socorro mútuo
 categories:
 - associação
 - direito civil
 - proteção veicular
 - socorro mútuo
+- legalidade proteção veicular
 
 ---
 Em razão de algumas indagações feitas sobre mensalidade fixa e fundo nas associações de socorro mútuo, decidi fazer alguns apontamentos sobre essa questão.
