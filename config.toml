@@ -1,5 +1,6 @@
 DefaultContentLanguage = "pt-br"
 baseURL = "https://gabrielmtborges.com.br/"
+title = "Gabriel Martins Teixeira Borges Sociedade Individual de Advocacia"
 languageCode = "pt-br"
 theme = "mainroad"
 
