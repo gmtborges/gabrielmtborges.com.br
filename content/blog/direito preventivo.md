@@ -15,4 +15,4 @@ Posso citar a necessidade e importância do direito preventivo nas associações
 
 Por outro lado, em atividades que são marcadas pela relação de consumo, importantíssimo a prevenção na elaboração de contratos e ações com base no Código do Consumidor, de modo a lembrar sempre do princípio norteador desse diploma legal, o direito à informação adequada.
 
-O bom trabalho preventivo pode diminuir a um nível considerável a possibilidade de ação judicial contra o cliente ou, no caso de ajuizamento, minimizar as chances de uma condenação.
+O bom trabalho preventivo pode diminuir a um nível considerável a possibilidade de ação judicial contra o cliente ou, no caso de ajuizamento, minimizar as possibilidades de uma condenação.
