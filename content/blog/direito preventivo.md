@@ -1,6 +1,6 @@
 ---
 title: Direito Preventivo
-date: 2020-06-02T19:33:53-03:00
+date: 2020-06-23T19:33:53-03:00
 
 ---
 Hodiernamente, a advocacia preventiva tem sido mais realizada e esperada do que a contenciosa.
