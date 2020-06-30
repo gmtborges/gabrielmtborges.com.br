@@ -2,7 +2,6 @@
 title: Institucional
 menu:
   main: {}
-draft: true
 
 ---
 Advogado inscrito na OAB/GO sob o n°. 33.568
