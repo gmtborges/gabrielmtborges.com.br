@@ -14,11 +14,11 @@ Jurídico da Federação das Associações de Socorro Mútuo e Benefícios do Es
 
 Pós-graduado em Direito Civil e Processo Civil
 
+Pós-Graduado em Direito Médico
+
 Pós-Graduando em Direito Tributário
 
-Pós-Graduando em Direito Médico
-
-Atuação na área docente nas disciplinas de Direito Processual Civil, Teoria Geral do Processo, Direito Administrativo, Direito Civil, Prática Civil e Penal. 
+Atuação na área docente nas disciplinas de Direito Processual Civil, Teoria Geral do Processo, Direito Administrativo, Direito Civil, Prática Civil e Penal.
 
 Membro da Comissão de Direito Cooperativo da OAB/GO (2013-2015).
 
