@@ -1,7 +1,7 @@
 ---
 title: Tribunal Regional Federal da 5º Região reconhece legalidade da atividade de
   associação de proteção veicular
-date: 2020-07-14T19:33:57-03:00
+date: 2020-07-14T14:33:57-03:00
 
 ---
 No dia 07/07/2020 foi julgado pela 4ª Turma do Tribunal Regional Federal da 5º Região, o recurso que apresentei contra a sentença proferida pelo juízo de primeiro grau (Caruaru-PE).
