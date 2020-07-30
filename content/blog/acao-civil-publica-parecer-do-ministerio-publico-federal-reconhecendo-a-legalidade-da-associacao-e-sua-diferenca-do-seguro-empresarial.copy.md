@@ -1,6 +1,5 @@
 +++
 date = 2020-06-02T22:33:47Z
-draft = true
 title = "Ação civil pública - Parecer do Ministério Público Federal reconhecendo a legalidade da associação e sua diferença do seguro empresarial.-(copy)"
 
 +++
