@@ -20,3 +20,5 @@ fields:
     required: false
   label: Nome do link ( não pode conter espaços )
   description: 'Ex.: https://exemplo.com/link-personalizado'
+pages:
+- content/blog/a-indenizacao-ou-retencao-de-benfeitorias-no-contrato-de-aluguel.md
