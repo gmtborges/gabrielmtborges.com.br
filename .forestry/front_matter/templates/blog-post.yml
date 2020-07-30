@@ -20,5 +20,3 @@ fields:
     required: false
   label: Nome do link ( não pode conter espaços )
   description: 'Ex.: https://exemplo.com/link-personalizado'
-pages:
-- content/blog/teste.md
