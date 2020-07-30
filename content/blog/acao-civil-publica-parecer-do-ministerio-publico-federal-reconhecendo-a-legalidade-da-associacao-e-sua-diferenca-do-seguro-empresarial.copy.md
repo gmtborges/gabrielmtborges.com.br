@@ -1,5 +1,6 @@
 +++
 date = 2020-07-30T22:33:47Z
+draft = true
 title = "Cláusula expressa e de não indenização e retenção no contrato de aluguel"
 
 +++
