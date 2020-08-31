@@ -4,7 +4,7 @@ menu:
   main: {}
 
 ---
-Advogado inscrito na OAB/GO sob o n°. 33.568
+Advogado inscrito na OAB/GO sob o n°. 33.568 e OAB/PE sob o n°. 53.536
 
 Presidente do Instituto Nacional de Estudos e Defesa do Associativismo – FAN
 
