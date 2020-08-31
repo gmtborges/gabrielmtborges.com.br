@@ -21,3 +21,5 @@ fields:
     required: false
   label: Nome do link ( não pode conter espaços )
   description: 'Ex.: https://exemplo.com/link-personalizado'
+pages:
+- content/blog/decisao-do-tribunal-regional-da-5-regiao-sobre-protecao-veicular-transitou-em-julgado.md
