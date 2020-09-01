@@ -12,7 +12,7 @@ Aqui, cuidei em trazer de forma bem resumida alguns pontos importantes sobre Lei
 
 Em primeiro momento destaco que a lei foi objeto de uma Medida Provisória (959/2020) em relação a sua _vacatio legis_, tempo original era Agosto/2020. Em votação, a redação final da medida consta a alteração do art. 65 da referida lei, passando a vigorar em 03 de maio de 2021.
 
-A MPV segue para sansão ou veto do Presidente, o qual tem até o dia 17/09/2020.
+A MPV segue para sansão ou veto do Presidente, o seu prazo final é o dia 17/09/2020.
 
 O resumo está separado por assunto e com a citação dos artigos da própria Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).
 
