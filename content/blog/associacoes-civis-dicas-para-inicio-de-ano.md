@@ -3,7 +3,7 @@ categories = []
 date = 2021-01-04T03:00:00Z
 slug = ""
 tags = []
-title = "Associações civis: Dicas para início de ano"
+title = "ASSOCIAÇÕES CIVIS: DICAS PARA INÍCIO DO ANO"
 
 +++
 Dicas para iniciar 2021.
