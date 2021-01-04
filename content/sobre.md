@@ -6,7 +6,7 @@ menu:
 ---
 Advogado inscrito na OAB/GO sob o n°. 33.568 e OAB/PE sob o n°. 53.536
 
-Presidente do Instituto Nacional de Estudos e Defesa do Associativismo – FAN
+Presidente da Força Associativa Nacional – FAN
 
 Jurídico da Federação das Associações de Benefícios do Estado Goiás - FEAB-GO
 
@@ -16,7 +16,7 @@ Pós-graduado em Direito Civil e Processo Civil
 
 Pós-Graduado em Direito Médico
 
-Pós-Graduando em Direito Tributário
+Pós-Graduado em Direito Tributário
 
 Atuação na área docente nas disciplinas de Direito Processual Civil, Teoria Geral do Processo, Direito Administrativo, Direito Civil, Prática Civil e Penal.
 
