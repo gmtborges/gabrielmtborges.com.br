@@ -22,5 +22,6 @@ fields:
   label: Nome do link ( não pode conter espaços )
   description: 'Ex.: https://exemplo.com/link-personalizado'
 pages:
+- content/blog/associacoes-civis-dicas-para-inicio-de-ano.md
 - content/blog/breves-apontamentos-sobre-a-aplicacao-da-lei-de-protecao-aos-dados-pessoais-lgpd-nas-associacoes-civis-de-rateio.md
 - content/blog/decisao-do-tribunal-regional-da-5-regiao-sobre-protecao-veicular-transitou-em-julgado.md
