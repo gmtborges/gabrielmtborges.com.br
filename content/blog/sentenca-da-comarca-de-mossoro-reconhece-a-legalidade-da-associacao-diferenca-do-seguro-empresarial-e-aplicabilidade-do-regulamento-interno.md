@@ -6,7 +6,7 @@ tags = []
 title = "SENTENÇA DA COMARCA DE MOSSORÓ RECONHECE A LEGALIDADE DA ASSOCIAÇÃO, DIFERENÇA DO SEGURO EMPRESARIAL E APLICABILIDADE DO REGULAMENTO INTERNO"
 
 +++
-Sentença proferida na Comarca de Mossoró acatou a minha tese apresentada em defesa, reconhecendo a diferença entre a atividade da associação de socorro mútuo e seguro empresarial. 
+Sentença proferida na Comarca de Mossoró acatou a minha tese apresentada em defesa, reconhecendo a diferença entre a atividade da associação de socorro mútuo e seguro empresarial.
 
 Veja o trecho da sentença:
 
