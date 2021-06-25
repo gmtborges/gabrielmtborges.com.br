@@ -26,7 +26,7 @@ Na Constituição Federal de 1988, a liberdade de associação foi tratada no t�
 
 Esses atos de colaboração e solidariedade, base do associativismo funcionam como base do regime democrático, nesse sentido pode citar a lição de Tocqueville[\[1\]](#_ftn1):
 
-“Nos países democráticos, a ciência da associação é a ciência mãe; o progresso de todas as outras depende dos progressos desta. Dentre as leis que regem as sociedades humanas, há uma que parece mais precisa e mais clara que todas as outras. Para que os homens permaneçam civilizados, é necessário que entre eles a arte de se associar se desenvolva e aperfeiçoe na mesma medida em que a igualdade de condições cresce”
+_“Nos países democráticos, a ciência da associação é a ciência mãe; o progresso de todas as outras depende dos progressos desta. Dentre as leis que regem as sociedades humanas, há uma que parece mais precisa e mais clara que todas as outras. Para que os homens permaneçam civilizados, é necessário que entre eles a arte de se associar se desenvolva e aperfeiçoe na mesma medida em que a igualdade de condições cresce”_
 
 As associações de divisão de despesas ou denominadas de socorro mútuo, fazem com que os associados fiquem em posição de igualdade e que todos pensem na cooperação e solidariedade, além de combater vícios da sociedade moderna como o individualismo. Além das virtudes indicadas acima, o associativismo faz surgir o sustento econômico e caminha para desenvolvimento das pessoas.
 
@@ -34,19 +34,19 @@ A alternativa de associar-se para ratear/dividir despesas já ocorridas exclusiv
 
 Nesse sentido, podemos dizer que preenche os próprios objetivos fundamentais descritos em nossa Constituição Federal:
 
-Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+_Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:_
 
-I - construir uma sociedade livre, justa e solidária;
+_I - construir uma sociedade livre, justa e solidária;_
 
-II - garantir o desenvolvimento nacional;
+_II - garantir o desenvolvimento nacional;_
 
-III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+_III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;_
 
-IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+_IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação._
 
-Além disso, a Constituição Federal também determina o estímulo de práticas associativas:
+_Além disso, a Constituição Federal também determina o estí_mulo de práticas associativas:
 
-Art. 174, CF - § 2º A lei apoiará e estimulará o cooperativismo e outras formas de associativismo.
+_Art. 174, CF - § 2º A lei apoiará e estimulará o cooperativismo e outras formas de associativismo._
 
 A finalidade das Associações de Socorro Mútuo é possibilitar a divisão das despesas já ocorridas entre os seus associados, não existe na atividade dessas associações o recolhimento prévio ou formação de fundo que presente a garantia de riscos futuros, essa a ajuda mútua tem como objetivo o rateio das despesas ocorridas e divididas posteriormente.
 
