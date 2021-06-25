@@ -18,6 +18,8 @@ Pós-Graduado em Direito Médico
 
 Pós-Graduado em Direito Tributário
 
+Pós-Graduando em Direito do Consumidor pela Universidade Federal de Goiás - UFG 
+
 Atuação na área docente nas disciplinas de Direito Processual Civil, Teoria Geral do Processo, Direito Administrativo, Direito Civil, Prática Civil e Penal.
 
 Membro da Comissão de Direito Cooperativo da OAB/GO (2013-2015).
@@ -25,3 +27,5 @@ Membro da Comissão de Direito Cooperativo da OAB/GO (2013-2015).
 Membro da Comissão de Direito Empresarial (2010-2012).
 
 Desenvolve estudo acerca de associações sem fins lucrativos, com a realização de cursos, palestras, bem como publicação em meio eletrônico e artigo em revista da área.
+
+Graduando em Filosofia
