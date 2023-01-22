@@ -12,9 +12,10 @@ theme = "mainroad"
   description = "Gabriel Martins Teixeira Borges Sociedade Individual de Advocacia"
   post_meta = ["date", "categories"] # Order of post meta information 
   dateFormat = "02/01/2006"
+  highlightColor = "#c2baba"
  
 [Params.logo]
-  image = "logo.jpg"
+  image = "logo-hor-1.png"
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
